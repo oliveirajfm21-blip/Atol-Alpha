@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Ambientes e IDE
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Arquivos locais (não vão para o GitHub)
+_antigo/
+*.bak
+CONTEXTO.md          # notas de sessão: pendências e conversas internas
